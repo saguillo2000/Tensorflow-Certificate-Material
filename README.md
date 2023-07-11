@@ -1,6 +1,6 @@
 # Tensorflow-Certificate-Material
 
-For the Tensorflow exam here are my resumes. In order to have a good exam I recommend to use the following resources:
+For the Tensorflow exam here are my resumes. In order to have a good result I recommend to use the following resources:
 
 - Laurence Moroney course of Practical Deep Learning with TensorFlow (https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - Hands On Machine Learning from Aurelien Géron
